@@ -43,18 +43,6 @@ This project involves:
 
 ---
 
-## 📝 Requirements
-
-All the project's dependencies are listed in the `requirements.txt` file. You can create this file and add the following content:
-
-```text
-Flask
-pandas
-numpy
-scikit-learn
-
----
-
 ## 🧹 Data Cleaning (in Jupyter Notebook)
 
 The raw dataset (`quikr_car.csv`) contained messy and inconsistent values. The following steps were performed:
