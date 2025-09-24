@@ -4,6 +4,15 @@ This project is a **Machine Learning web application** that predicts the price o
 
 ---
 
+## 🚀 Project Overview
+This project involves:
+
+- **Data Cleaning and Preprocessing:** Transforming a raw, messy dataset of used car listings into a clean, structured format suitable for machine learning.
+- **Model Training:** Building and training a Linear Regression model using Scikit-learn to predict car prices based on their features.
+- **Backend Development:** Deploying the trained model with a Flask web server that handles user requests and returns predictions.
+- **Frontend Development:** Creating a simple and interactive user interface with HTML and Bootstrap for users to input car details and view the results.
+
+---
 ## 📂 Project Structure
 
 - ├── application.py              # Flask web application
