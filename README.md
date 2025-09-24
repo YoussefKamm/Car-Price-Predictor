@@ -101,7 +101,7 @@ The raw dataset (`quikr_car.csv`) contained messy and inconsistent values. The f
 
 ## 📸 Screenshot
 
-The image below shows the web application's user interface with an example price prediction.(a 2016 Nissan Micra with 20,000 km driven.)
+The image below shows the web application's user interface with an example price prediction(Nissan Micra, model year 2016, 20,000 km).
 
 
 ![image](https://github.com/YoussefKamm/Car-Price-Predictor/blob/main/Screenshot-Web.png)
