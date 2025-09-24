@@ -101,9 +101,9 @@ The raw dataset (`quikr_car.csv`) contained messy and inconsistent values. The f
 
 ## 📸 Screenshot
 
-*(To add your image, simply drag and drop your screenshot file into the text editor on GitHub where you want it to appear)*
 
-![Application Screenshot](https://i.imgur.com/7b43x05.png)
+
+![image](https://github.com/YoussefKamm/Car-Price-Predictor/blob/main/Screenshot-Web.png)
 
 
 ---
