@@ -123,7 +123,7 @@ The image below shows the web application's user interface with an example price
 -   Use more advanced ML models (Random Forest, XGBoost) for potentially higher accuracy.
 -   Deploy the application to a cloud service like Render or AWS.
 -   Incorporate more features into the model (e.g., transmission type, engine size).
--   Enhance the user interface with a more modern design or a dashboard.
+-   Enhance the user interface with a more modern design or a dashboard (Matplotlib, Seaborn, Power BI).
 
 ---
 
