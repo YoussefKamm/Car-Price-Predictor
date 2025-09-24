@@ -131,5 +131,5 @@ The image below shows the web application's user interface with an example price
 
 **Youssef Kammoun**
 
--   **Email**: `kammoun.youssef@outlook.com`
--   **LinkedIn**: `linkedin.com/in/your-profile`
+- [LinkedIn : Youssef Kammoun](https://www.linkedin.com/in/kammounyoussef)  
+- [Email : kammounyoussef54@gmail.com](mailto:kammounyoussef54@gmail.com)
