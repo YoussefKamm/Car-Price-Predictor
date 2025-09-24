@@ -17,6 +17,7 @@ This project is a **Machine Learning web application** that predicts the price o
 - └── css/
 - └── style.css           # Custom styles
 - ├── Screenshot-Web.png          # Screenshot of the application
+- ├── README.md         # Project documentation
 
 ---
 
