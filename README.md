@@ -1,6 +1,6 @@
 # 🚗 Car Price Predictor
 
-This project is a **Machine Learning web application** that predicts the price of a used car based on its **company, model, year, fuel type, and kilometers driven**. It combines data cleaning, a Linear Regression model, and a Flask web app with a simple Bootstrap frontend.
+The Car Price Predictor is a **Machine Learning web application** that provides data-driven valuations for used vehicles. This project demonstrates a complete **data science workflow**, starting with rigorous data cleaning and preprocessing of raw automotive listings. A **Linear Regression** model is then trained to analyze key vehicle attributes and predict market value. The final model is deployed in a user-friendly web application powered by Flask and Bootstrap, allowing anyone to get instant and reliable price estimates.
 
 ---
 
